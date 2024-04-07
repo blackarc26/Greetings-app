@@ -1,15 +1,16 @@
 header {
-	background-color: #333;
+	background-color:darkslategrey;
 	color: #fff;
 	padding: 10px;
 }
 
 h1 {
 	margin: 0;
+	text-align: center;
 }
 
 form {
-	display: flex;
+	display:flex;
 	flex-direction: column;
 }
 
